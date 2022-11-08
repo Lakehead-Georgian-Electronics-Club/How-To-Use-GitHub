@@ -1,11 +1,14 @@
 ## How To Use GitHub:
 - Some things to get started if you never used GitHub before. 
+- This whole thing is a work in progress so it is a little sparse for now 
+- 
+
 ### Commands for edditing README.md files:
 
 - See this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for more information about formatting text files.
 - Here's a snippet from the site:
 
-<img width="600" alt="Screen Shot 2022-11-08 at 1 23 17 PM" src="https://user-images.githubusercontent.com/73149111/200645011-4929bc00-251f-4ac0-a1f7-3db1dff54a0b.png">
+<img width="500" alt="Screen Shot 2022-11-08 at 1 23 17 PM" src="https://user-images.githubusercontent.com/73149111/200645011-4929bc00-251f-4ac0-a1f7-3db1dff54a0b.png">
 
 
 # Organization of the GitHub Page
